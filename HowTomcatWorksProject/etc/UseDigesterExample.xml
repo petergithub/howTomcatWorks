@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<book firstName="Freddie" lastName="Mercury">
+  <book description="Headquarters">
+    <address streetName="Wellington Avenue" streetNumber="223"/>
+  </book>
+  <book description="Client site">
+    <address streetName="Downing Street" streetNumber="10"/>
+  </book>
+</book>
